@@ -14,3 +14,21 @@ h1 {text-align: center; padding: 20px 0; color: #313d98;}
 p {text-align: justify;}
 
 .bold {font-weight: bold;}
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+  .content-box {margin-top: 50px; }
+}
+
+@media (max-width: 480px) {
+  .content-box {margin-top: 50px; }
+}
